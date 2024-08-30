@@ -1,0 +1,3 @@
+---
+providerRegex: ^(talos-pi-control01)$
+bypassDnsResolution: true
